@@ -2,6 +2,7 @@
 
 struct SegmentTree {
    public:
+    SegmentTree()
 
    private:
 
