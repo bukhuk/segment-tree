@@ -1,9 +1,11 @@
 #pragma once
 
+#include <vector>
+
 struct SegmentTree {
    public:
-    SegmentTree()
+    SegmentTree() {}
 
    private:
-
+    std::vector <int> a;
 };
